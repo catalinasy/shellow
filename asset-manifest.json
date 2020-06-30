@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shellow/static/css/main.84a1be68.chunk.css",
+    "main.js": "/shellow/static/js/main.3c667a6c.chunk.js",
+    "main.js.map": "/shellow/static/js/main.3c667a6c.chunk.js.map",
+    "runtime-main.js": "/shellow/static/js/runtime-main.7c49fc97.js",
+    "runtime-main.js.map": "/shellow/static/js/runtime-main.7c49fc97.js.map",
+    "static/js/2.10d454ca.chunk.js": "/shellow/static/js/2.10d454ca.chunk.js",
+    "static/js/2.10d454ca.chunk.js.map": "/shellow/static/js/2.10d454ca.chunk.js.map",
+    "index.html": "/shellow/index.html",
+    "precache-manifest.da57c853633d652a752b725ed899e17b.js": "/shellow/precache-manifest.da57c853633d652a752b725ed899e17b.js",
+    "service-worker.js": "/shellow/service-worker.js",
+    "static/css/main.84a1be68.chunk.css.map": "/shellow/static/css/main.84a1be68.chunk.css.map",
+    "static/js/2.10d454ca.chunk.js.LICENSE.txt": "/shellow/static/js/2.10d454ca.chunk.js.LICENSE.txt",
+    "static/media/close.bbbad9d8.svg": "/shellow/static/media/close.bbbad9d8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c49fc97.js",
+    "static/js/2.10d454ca.chunk.js",
+    "static/css/main.84a1be68.chunk.css",
+    "static/js/main.3c667a6c.chunk.js"
+  ]
+}
